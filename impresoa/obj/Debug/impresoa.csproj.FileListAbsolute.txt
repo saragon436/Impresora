@@ -1,0 +1,6 @@
+D:\impresoraNueva\impresoa\impresoa\bin\Debug\impresoa.exe.config
+D:\impresoraNueva\impresoa\impresoa\bin\Debug\impresoa.exe
+D:\impresoraNueva\impresoa\impresoa\bin\Debug\impresoa.pdb
+D:\impresoraNueva\impresoa\impresoa\obj\Debug\impresoa.csprojResolveAssemblyReference.cache
+D:\impresoraNueva\impresoa\impresoa\obj\Debug\impresoa.exe
+D:\impresoraNueva\impresoa\impresoa\obj\Debug\impresoa.pdb
